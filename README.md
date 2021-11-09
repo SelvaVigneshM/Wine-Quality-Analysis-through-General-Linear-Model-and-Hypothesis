@@ -1,0 +1,1 @@
+# Wine-Quality-Analysis-through-General-Linear-Model-and-Hypothesis
