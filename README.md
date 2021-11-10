@@ -1,6 +1,9 @@
 # Wine Quality Analysis Through Generalized Linear Model and Hypothesis🍇🍾🍷
 Predicting the Quality of Red Wine using Linear model, ANOVA and Hypothesis testing with Data Visualization and Analysis.
 
+# Credit🌟
+Published this research paper at ICSADADS-2020, Amrita Vishwa Vidyapeetham, Coimbatore.
+
 # Dataset📉
 The dataset used here is Wine Quality Data set from UCI Machine Learning Repository. I have attached the csv file needed for the regression task - wineQualityReds.csv The same can also be found here https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
